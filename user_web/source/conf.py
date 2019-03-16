@@ -50,10 +50,10 @@ master_doc = 'contents'
 
 # General information about the project.
 project = 'Web Portal User Guide'
-copyright = '2019, Corporate Shields, LLC.'
-author = 'Corporate Shields'
+copyright = '2019, OnStrada Limited'
+author = 'OnStrada'
 
-prodname = 'NUBIA Drive'
+prodname = 'HydraSync'
 
 rst_epilog = '.. |prodname| replace:: %s' % prodname
 
