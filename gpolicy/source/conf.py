@@ -20,8 +20,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Group Policy Settings'
-copyright = '2018, administrator'
-author = 'administrator'
+copyright = '2019, OnStrada Limited'
+author = 'OnStrada'
 
 # The short X.Y version
 version = ''
