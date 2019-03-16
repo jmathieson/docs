@@ -49,9 +49,9 @@ source_suffix = '.rst'
 master_doc = 'contents'
 
 # General information about the project.
-project = 'CentreStack Android User Guide'
-copyright = '2018, Gladinet, Inc.'
-author = 'Gladinet, Inc.'
+project = 'Android User Guide'
+copyright = '2019, OnStrada Limited'
+author = 'OnStrada'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
