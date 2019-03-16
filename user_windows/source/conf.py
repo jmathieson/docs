@@ -50,10 +50,10 @@ master_doc = 'contents'
 
 # General information about the project.
 project = 'Windows Client Guide'
-copyright = '2018, GreenCity Solutions'
-author = 'GreenCity Solutions'
+copyright = '2019, OnStrada Limited'
+author = 'OnStrada Limited'
 
-prodname = 'DIVVIED'
+prodname = 'HydraSync'
 
 rst_epilog = '.. |prodname| replace:: %s' % prodname
 
